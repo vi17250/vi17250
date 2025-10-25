@@ -1,4 +1,4 @@
-# Hello I'm Victor 🖖 |> french craftsman developer and sailor ⚓
+# Hello I'm Victor 🖖 |> french craftsman and sailor ⚓
 
 ## 🌎 Fullstack developer back-end oriented
 
